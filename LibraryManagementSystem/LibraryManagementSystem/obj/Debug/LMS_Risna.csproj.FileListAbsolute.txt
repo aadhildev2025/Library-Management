@@ -1,0 +1,17 @@
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryDB.mdf
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryDB_log.ldf
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LMS_Risna.csproj.AssemblyReference.cache
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBookForm.resources
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBookForm.resources
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReturnBookForm.resources
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBooksForm.resources
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LMS_Risna.csproj.GenerateResource.cache
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LMS_Risna.csproj.CoreCompileInputs.cache
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Aadhil\Desktop\Final\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb

@@ -1,0 +1,6 @@
+﻿CREATE TABLE Books (
+    BookID INT PRIMARY KEY IDENTITY,
+    Title NVARCHAR(100),
+    Author NVARCHAR(100),
+    Available BIT DEFAULT 1
+);

@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LMS_Risna.csproj|c:\\users\\aadhil\\desktop\\final\\final\\librarymanagementsystem\\librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LMS_Risna.csproj|solutionrelative:librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LMS_Risna.csproj|C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LMS_Risna.csproj|solutionrelative:librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\librarymanagementsystem\\returnbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\returnbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\librarymanagementsystem\\returnbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\returnbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\librarymanagementsystem\\viewbooksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\viewbooksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\librarymanagementsystem\\issuebookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\issuebookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\librarymanagementsystem\\issuebookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\issuebookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\librarymanagementsystem\\addbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\librarymanagementsystem\\addbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\librarymanagementsystem\\viewbooksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\viewbooksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\librarymanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB41C2C-2AE7-4BDD-AD0E-3F030F14BEC5}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\LoginForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAhwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:37:12.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Aadhil\\Desktop\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:37:12.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewBooksForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\ViewBooksForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\ViewBooksForm.cs",
+              "ToolTip": "C:\\Users\\Aadhil\\Desktop\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\ViewBooksForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\LibraryManagementSystem\\LibraryManagementSystem\\ViewBooksForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:26:36.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReturnBookForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBookForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\ReturnBookForm.cs",
+              "ToolTip": "C:\\Users\\Aadhil\\Desktop\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBookForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T20:07:39.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReturnBookForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBookForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\ReturnBookForm.cs",
+              "ToolTip": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnBookForm.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\ReturnBookForm.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwC0AAAC7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T20:09:52.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Aadhil\\Desktop\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T20:11:12.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\LoginForm.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\LoginForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAhwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:02:40.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IssueBookForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBookForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\IssueBookForm.cs",
+              "ToolTip": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBookForm.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\IssueBookForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAMwCYAAAC3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:44:31.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IssueBookForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBookForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\IssueBookForm.cs",
+              "ToolTip": "C:\\Users\\Aadhil\\Desktop\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBookForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:39:56.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddBookForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\AddBookForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\AddBookForm.cs",
+              "ToolTip": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\AddBookForm.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\AddBookForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA9wBoAAAC3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:34:13.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddBookForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\AddBookForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\AddBookForm.cs",
+              "ToolTip": "C:\\Users\\Aadhil\\Desktop\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\AddBookForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\LibraryManagementSystem\\LibraryManagementSystem\\AddBookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:56:06.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewBooksForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\ViewBooksForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\ViewBooksForm.cs",
+              "ToolTip": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\ViewBooksForm.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\ViewBooksForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAApwBYAAAC3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:20:10.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\MainForm.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAhwEEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:06:04.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Aadhil\\Desktop\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\LibraryManagementSystem\\LibraryManagementSystem\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:46:56.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aadhil\\Desktop\\Final\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aadhil\\Desktop\\Final\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:45:12.364Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
